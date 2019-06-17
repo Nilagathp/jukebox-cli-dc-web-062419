@@ -1,4 +1,4 @@
-lear# Build a Jukebox
+# Build a Jukebox
 
 ## Objectives
 
